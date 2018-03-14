@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\Population\Population\bin\Debug\Population.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Population\Population\bin\Debug\Population.exe
+c:\users\student\documents\visual studio 2015\Projects\Population\Population\bin\Debug\Population.pdb
+c:\users\student\documents\visual studio 2015\Projects\Population\Population\obj\Debug\Population.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Population\Population\obj\Debug\Population.exe
+c:\users\student\documents\visual studio 2015\Projects\Population\Population\obj\Debug\Population.pdb
